@@ -37,3 +37,26 @@
 .text-6xl {
     font-size: 4rem;
 }
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.cjk-indent {
+    text-indent: 2rem;
+}
